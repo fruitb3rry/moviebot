@@ -4,6 +4,7 @@
   "description": "messenger bot to give users access to movie listings and give them updates on upcoming items'",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "fruitb3rry",
