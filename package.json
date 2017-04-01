@@ -1,0 +1,14 @@
+{
+  "name": "moviebot",
+  "version": "1.0.0",
+  "description": "messenger bot to give users access to movie listings and give them updates on upcoming items'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fruitb3rry",
+  "license": "ISC",
+  "dependencies": {
+    "messenger-bot": "^2.4.0"
+  }
+}
